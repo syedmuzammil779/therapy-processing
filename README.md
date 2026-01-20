@@ -250,8 +250,6 @@ NEXT_PUBLIC_API_BASE_URL=http://localhost:8080  # Backend URL
 | GET | `/session` | Get all processed sessions |
 | POST | `/session/search` | Semantic search across sessions |
 
-See [API_DOCS.md](server/API_DOCS.md) for detailed API documentation.
-
 ## 🎨 UI Features
 
 - **Emerald-Green Theme**: Modern gradient design with emerald and teal colors
@@ -339,7 +337,3 @@ For issues or questions:
 ## 📄 License
 
 Private - All rights reserved
-
----
-
-Built with ❤️ using AI and modern web technologies
